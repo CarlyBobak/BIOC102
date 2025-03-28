@@ -9,7 +9,7 @@ You'll be working in the **R Console** (not the notebook) using swirl. Follow th
 ```r
 install.packages("swirl")
 library(swirl)
-install_course_github("CarlyBobak", "BIOC102")
+install_course_github("CarlyBobak", "BIOC102/Lessons")
 swirl()
 ```
 Then select:
