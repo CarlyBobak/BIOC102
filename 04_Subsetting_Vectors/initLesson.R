@@ -4,3 +4,7 @@
 # throughout the lesson.
 
 swirl_options(swirl_logging = TRUE)
+
+x <- sample(c(rnorm(20), rep(NA, 20)))
+
+
